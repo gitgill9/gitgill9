@@ -1,4 +1,4 @@
-### Hey Sukh here 👋
+### Hey, Sukh here 👋
 
 ---
 
@@ -8,7 +8,7 @@
 
 I am a Data Scientist with a background in Finance who is exploring Cloud :cloud: while facilitating the world with User Experience with my Machine Learning skills.
  
- 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
+ 🔭 I’m planning for a Project **Soccer-Scout: ML-based System to find out future talent in soccer**.
  
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
  
@@ -55,7 +55,7 @@ I am a Data Scientist with a background in Finance who is exploring Cloud :cloud
 
 ---
 
-Let's connect 👨‍💻 and forge the future together.✌
+Let's connect 👨‍💻 and create some magic.✌
 
 **Check the Repositories and don't forget to give a star.** 
 
