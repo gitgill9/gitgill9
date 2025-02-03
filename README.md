@@ -6,15 +6,15 @@
   <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Data Scientist with a background in Finance who is exploring Cloud :cloud: while facilitating the world with User Experience with my Machine Learning skills.
+I am an iOS App Developer with a background in Finance who is exploring the software world with User Experience with my Machine Learning/AI skills.
  
  🔭 I’m planning for a Project **Soccer-Scout: ML-based System to find out future talent in soccer**.
  
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
  
- 👯 I’m looking to collaborate for a Flutter and ML-based project **Mobile App**.
+ 👯 I’m looking to collaborate for a iOS and ML-based project **Mobile App**.
  
- 💬 Ask me about SQL, Python, Machine Learning, Tensorflow, Big Data, Cloud, and any Data-related stuff.
+ 💬 Ask me about Swift, Supabase, SQL, Python, Machine Learning, and any Data-related stuff.
 
 
 ![Profile views](https://gpvc.arturio.dev/gitgill9)  <img src="https://img.shields.io/github/followers/gitgill9?label=Follow" style=" float:left, margin-right:10px" />
